@@ -60,6 +60,19 @@ MPB Radio 1 operates additional online-only subchannels for specialized audience
 
 ---
 
+## Presenters and DJs
+
+- Luca P  
+- Ryan S  
+- Hacker  
+- Mack  
+- Above & Beyond  
+- Defected  
+- Nicky Romero  
+- Kriss Kross Amsterdam  
+
+---
+
 ## Technology
 
 MPB Radio 1 uses professional-grade audio processing to maintain high-quality broadcast standards. The station’s main channel is powered by the **Orban Optimod 8300**, ensuring dynamic and polished output.
