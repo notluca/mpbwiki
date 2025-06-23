@@ -63,6 +63,8 @@ Other parts of the MPB Radio network, including MPB Radio 2, are processed using
 
 In 2024, MPB Radio 1 moved into newly renovated studios in **Castlebar**, which were designed to support digital broadcasting workflows and automation systems. These studios also support MPB Radio 2 operations, offering flexibility and scalability as the network grows.
 
+A **backup studio** is located in **Tilburg, the Netherlands**, provided through a close partnership with the **Brabant Radio Network**. This facility ensures continuity of service in case of technical issues at the main site in Ireland.
+
 ---
 
 ## MPB Radio Network
