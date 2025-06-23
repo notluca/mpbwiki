@@ -51,6 +51,15 @@ MPB Radio 1 features a mix of hit music, specialty dance programs, and a combina
 
 ---
 
+## Subchannels
+
+MPB Radio 1 operates additional online-only subchannels for specialized audiences:
+
+- **MixMingle** – A nonstop stream featuring the best of DJ sets aired on the main station and exclusive mixes from guest performers.
+- **Classics** – Focuses on the greatest hits of the 1990s, 2000s, and 2010s, blending nostalgia with rhythmic favorites from three decades.
+
+---
+
 ## Technology
 
 MPB Radio 1 uses professional-grade audio processing to maintain high-quality broadcast standards. The station’s main channel is powered by the **Orban Optimod 8300**, ensuring dynamic and polished output.
