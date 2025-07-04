@@ -55,7 +55,7 @@ MPB Radio 1 features a mix of hit music, specialty dance programs, and a combina
 
 MPB Radio 1 operates additional online-only subchannels for specialized audiences:
 
-- **MixMingle** – A nonstop stream featuring the best of DJ sets aired on the main station and exclusive mixes from guest performers.
+- **MixMingle** – A nonstop stream featuring the best of DJ sets aired on the main station and exclusive mixes from guest performers.  
 - **Classics** – Focuses on the greatest hits of the 1990s, 2000s, and 2010s, blending nostalgia with rhythmic favorites from three decades.
 
 ---
@@ -70,6 +70,16 @@ MPB Radio 1 operates additional online-only subchannels for specialized audience
 - Defected  
 - Nicky Romero  
 - Kriss Kross Amsterdam  
+
+---
+
+## Frequencies
+
+MPB Radio 1 is available on FM in the following areas:
+
+- **Castlebar, Ireland** – 98.2 MHz  
+- **Westport, Ireland** – 97.4 MHz  
+- **Tilburg Reeshof, Netherlands** – 92.2 MHz (relay via Brabant Radio Network)
 
 ---
 
@@ -96,7 +106,7 @@ A **backup studio** is located in **Tilburg, the Netherlands**, provided through
 The **MPB Radio** network currently consists of two stations:
 
 - **MPB Radio 1** – Top 40 / CHR format for ages 18–30  
-- **MPB Radio 2** – A more classic and adult-oriented format
+- **MPB Radio 2** – A more classic and adult-oriented format (80s–00s)
 
 Both stations are operated from Castlebar and share technical infrastructure, while maintaining distinct brand identities.
 
