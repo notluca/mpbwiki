@@ -75,9 +75,9 @@ MPB Radio 1 operates additional online-only subchannels for specialized audience
 
 ## Frequencies
 
-MPB Radio 1 is available on FM in the following areas:
+MPB Radio 1 is available on FM and/or DAB+ in the following areas:
 
-- **Castlebar, Ireland** – 98.2 MHz  
+- **Castlebar, Ireland** – 98.2 MHz, DAB+ 12C
 - **Westport, Ireland** – 97.4 MHz  
 - **Tilburg Reeshof, Netherlands** – 92.2 MHz (relay via Brabant Radio Network)
 
